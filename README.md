@@ -1,4 +1,4 @@
-# Alien::gmake ![linux](https://github.com/PerlAlien/Alien-gmake/workflows/linux/badge.svg) ![windows-system](https://github.com/PerlAlien/Alien-gmake/workflows/windows-system/badge.svg) ![macos-share](https://github.com/PerlAlien/Alien-gmake/workflows/macos-share/badge.svg) ![macos-system](https://github.com/PerlAlien/Alien-gmake/workflows/macos-system/badge.svg)
+# Alien::gmake ![static](https://github.com/PerlAlien/Alien-gmake/workflows/static/badge.svg) ![linux](https://github.com/PerlAlien/Alien-gmake/workflows/linux/badge.svg) ![windows-system](https://github.com/PerlAlien/Alien-gmake/workflows/windows-system/badge.svg) ![macos-share](https://github.com/PerlAlien/Alien-gmake/workflows/macos-share/badge.svg) ![macos-system](https://github.com/PerlAlien/Alien-gmake/workflows/macos-system/badge.svg)
 
 Find or build GNU Make
 

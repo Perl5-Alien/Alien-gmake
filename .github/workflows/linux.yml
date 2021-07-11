@@ -17,13 +17,12 @@ jobs:
       fail-fast: false
       matrix:
         cip:
-          - tag: "static"
           - env: ALIEN_INSTALL_TYPE=share
             tag: "5.35"
           - env: ALIEN_INSTALL_TYPE=system
             tag: "5.35"
           - env: ALIEN_INSTALL_TYPE=share
-            tag: "5.34-fedora29"
+            tag: "5.34-fedora34"
           - env: ALIEN_INSTALL_TYPE=share
             tag: "5.34"
           - env: ALIEN_INSTALL_TYPE=system
